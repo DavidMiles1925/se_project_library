@@ -23,13 +23,21 @@
 }
 
 .staff__card-list {
-  list-style-type: none;
   max-width: 760px;
+  display: grid;
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
+  grid-template-columns: repeat(auto-fill, 360px);
+  grid-template-rows: repeat(auto-fill, 420px);
   padding: 0;
-  margin: 0;
-  justify-content: space-between;
+  margin: 20px auto 50px;
+  justify-content: center;
   row-gap: 40px;
+  column-gap: 40px;
+}
+
+@media screen and (max-width: 766px) {
+  .staff {
+    padding: 50px 0;
+  }
 }

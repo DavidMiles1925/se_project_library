@@ -18,3 +18,10 @@
 .step__description {
   margin: 10px 0 0;
 }
+
+@media screen and (max-width: 766px) {
+  .step {
+    flex-basis: 60px;
+    margin-top: 30px;
+  }
+}

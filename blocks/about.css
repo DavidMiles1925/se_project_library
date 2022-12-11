@@ -43,3 +43,19 @@
   height: 495px;
   border-radius: 50%;
 }
+
+@media screen and (max-width: 766px) {
+  .about {
+    flex-direction: column;
+    padding: 50px 30px;
+  }
+
+  .about__title {
+    margin: 0 0 60px 0;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+    z-index: 1;
+    max-width: 154px;
+  }
+}

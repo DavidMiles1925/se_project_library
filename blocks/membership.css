@@ -1,6 +1,5 @@
 .membership {
-  padding-top: 100px;
-  padding-bottom: 140px;
+  padding: 100px;
   background-color: #f2f2f2;
   display: flex;
   flex-direction: column;
@@ -18,10 +17,21 @@
 
 .membership__steps {
   list-style-type: none;
-  padding: 0;
-  margin: 100px 0 0;
+
+  margin: 40px 0;
   display: flex;
-  justify-content: space-around;
-  box-sizing: border-box;
+  justify-content: center;
+
   column-gap: 40px;
+}
+
+@media screen and (max-width: 766px) {
+  .membership {
+    padding: 40px;
+  }
+
+  .membership__steps {
+    padding: 20px;
+    flex-direction: column;
+  }
 }
