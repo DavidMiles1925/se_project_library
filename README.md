@@ -16,7 +16,7 @@ One element was intially positioned using "position: absolute" as an introductio
 
 A navigation bar at the top of the page was created, and each section of the page was given an id tag to allow for quick access.
 
-![Navbar](.images/readme_navbar.png)
+![Navbar](./images/readme_navbar.png)
 
 ### Responsive Web Design
 
@@ -24,15 +24,15 @@ A navigation bar at the top of the page was created, and each section of the pag
 
 Flexbox and grid layout were used to ensure elements moved and resized appropriately at different screen resolutions.
 
-![Desktop Resolution](.images/readme_full-resolution.png)
+![Desktop Resolution](./images/readme_full-resolution.png)
 
-![Mobile Resolution](.images/readme_small_resolution.png)
+![Mobile Resolution](./images/readme_small_resolution.png)
 
 **Media Queries**
 
 Media queries were also used at various resolutions to ensure smooth and seemless transitions through different screen resolutions.
 
-![Media Queries](.images/readme_media-queries.png)
+![Media Queries](./images/readme_media-queries.png)
 
 ## Site Link
 
