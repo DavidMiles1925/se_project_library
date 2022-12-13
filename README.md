@@ -36,4 +36,4 @@ Media queries were also used at various resolutions to ensure smooth and seemles
 
 ## Site Link
 
-Click ![here](https://davidmiles1925.github.io/se_project_library/) to visit the site.
+Click [here](https://davidmiles1925.github.io/se_project_library/) to visit the site.
