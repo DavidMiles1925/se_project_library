@@ -26,7 +26,7 @@ Flexbox and grid layout were used to ensure elements moved and resized appropria
 
 ![Desktop Resolution](./images/readme_full-resolution.png)
 
-![Mobile Resolution](./images/readme_small_resolution.png)
+![Mobile Resolution](./images/readme_small-resolution.png)
 
 **Media Queries**
 
